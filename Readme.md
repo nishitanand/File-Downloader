@@ -19,4 +19,4 @@ or (for Mac)
 
 python3 Nishit-Downloader.py
 
-The downloaded files will be saven in the folder named "PyDownloads"
+The downloaded files will be savend in the folder named "PyDownloads"
